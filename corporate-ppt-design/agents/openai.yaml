@@ -1,0 +1,4 @@
+interface:
+  display_name: "企业介绍 PPT 设计"
+  short_description: "从内容逻辑到视觉交付，系统化设计高质量企业演示文稿"
+  default_prompt: "Use $corporate-ppt-design to turn my company material into a polished, presentation-ready PPT deck."
